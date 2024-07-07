@@ -1,9 +1,0 @@
-yandexcloud 
-langchain-community 
-langchain 
-nest_asyncio
-faiss-cpu
-fastapi 
-uvicorn 
-pyngrok
-docx2txt
